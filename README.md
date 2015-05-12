@@ -9,6 +9,8 @@
 
 This repository demonstrates an integration to the triPOS product using c#.  The code was compiled and tested using Microsoft Visual Studio Express 2013 for Windows Desktop.  The application itself allows a user to populate a credit sale request in either XML or JSON and then send that request to triPOS for further processing.  The app then uses the information provided in the response to display a receipt image.
 
+![triPOS.CSharp](https://github.com/ElementPS/triPOS.SampleTransaction.CSharp/blob/master/screenshot.PNG)
+
 ##Prerequisites
 
 Please contact your Integration Team member for any questions about the below prerequisites.
