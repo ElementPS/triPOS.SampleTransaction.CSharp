@@ -1,4 +1,4 @@
-# triPOS.CSharp
+# triPOS.SampleTransaction.CSharp
 
 * Questions?  certification@elementps.com
 * **Feature request?** Open an issue.
