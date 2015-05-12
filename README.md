@@ -1,6 +1,5 @@
 # triPOS.CSharp
 
-* More documentation?  http://developer.mercurypay.com
 * Questions?  certification@elementps.com
 * **Feature request?** Open an issue.
 * Feel like **contributing**?  Submit a pull request.
@@ -8,7 +7,7 @@
 
 ##Overview
 
-This repository demonstrates an integration to the triPOS product.  The code was compiled and tested using Microsoft Visual Studio Express 2013 for Windows Desktop.
+This repository demonstrates an integration to the triPOS product using c#.  The code was compiled and tested using Microsoft Visual Studio Express 2013 for Windows Desktop.  The application itself allows a user to populate a credit sale request in either XML or JSON and then send that request to triPOS for further processing.  The app then uses the information provided in the response to display a receipt image.
 
 ##Prerequisites
 
@@ -22,7 +21,7 @@ Please contact your Integration Team member for any questions about the below pr
 
 ##Documentation/Troubleshooting
 
-* triPOS provides a feature in that it embeds API documentation.  Simply point your favorite browser to:  http://localhost:8080/help/ (for a default install) and the triPOS API documentation anticipates your questions.
+* To view the triPOS embedded API documentation point your favorite browser to:  http://localhost:8080/help/ (for a default install).”
 * In addition to the help documentation above triPOS writes information to a series of log files located at:  C:\Program Files (x86)\Vantiv\triPOS Service\Logs (for a default install).
 
 ##Step 1: Generate a request package
